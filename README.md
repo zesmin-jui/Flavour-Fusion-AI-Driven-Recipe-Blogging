@@ -7,10 +7,6 @@ Flavour Fusion: AI-Driven Recipe Blogging is a platform that generates creative 
 
 [Flavor Fusion - Live Demo](https://2flavorfusion.netlify.app/)
 
-## Video Walkthrough
-
-[Watch Video Walkthrough](https://vimeo.com/manage/videos/861673402/845e88ae53)
-
 ## Features
 
 Flavor Fusion offers a range of features, including:
@@ -28,10 +24,6 @@ Flavor Fusion offers a range of features, including:
 - **Culinary Profiles**: Allows users to create detailed culinary profiles, specifying flavor preferences, cooking techniques, and dietary restrictions. This information enhances the accuracy of recipe recommendations.
 
 - **Recipe Sharing**: Enables users to share their favorite recipes with others, either within the community or on social media platforms, fostering knowledge sharing and engagement.
-
-## Design Decisions & Assumptions
-
-![database-diagram](https://github.com/prathmesh49/RecipeRadar/assets/112652930/b7a0afdf-6f4d-4f4b-95a7-c7c62f7413d1)
 
 ## Installation & Getting Started
 
